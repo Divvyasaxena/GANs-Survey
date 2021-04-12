@@ -1,5 +1,6 @@
 # A Survey on Generative Adversarial Networks (GANs)
 # GAN Survey
+# Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions
 
 **New taxonomy.** In this study, we identify key research issues within each design and optimization technique and present a novel taxonomy to structure solutions by key research issues. Our proposed taxonomy will facilitate researchers to enhance the understanding of the current developments handling GANs challenges and future research directions.
 
